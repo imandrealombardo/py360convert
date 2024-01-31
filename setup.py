@@ -4,16 +4,16 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-    name='py360convert',
+    name='py360convert-modified',
     packages=['py360convert'],
     version='0.1.0',
     license='MIT',
     description='Convertion between cubemap and equirectangular and also to perspective planar.',
     long_description=long_description,
-    author='Cheng Sun',
-    author_email='chengsun@gapp.nthu.edu.tw',
-    url='https://github.com/sunset1995',
-    download_url='https://github.com/sunset1995/py360convert/archive/v_0.1.0.tar.gz',
+    author='Andrea Lombardo',
+    author_email='andrealombardo2m@gmail.com',
+    url='https://github.com/imandrealombardo/py360convert',
+    download_url='https://github.com/imandrealombardo/py360convert/archive/refs/tags/v1.0.0.tar.gz',
     install_requires=[
         'numpy',
         'scipy',

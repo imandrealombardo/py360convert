@@ -1,5 +1,11 @@
 # py360convert
 
+## Credits
+
+This project is a fork of [py360converter](https://github.com/sunset1995/py360convert) by Cheng Sun.
+
+-----
+
 **A new library including more fuctionality for 360 is under contruction by my colleague. This repo will be depreciated then.**
 
 Features of this project:
