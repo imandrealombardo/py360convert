@@ -2,7 +2,7 @@
 
 ## Credits
 
-This project is a fork of [py360converter](https://github.com/sunset1995/py360convert) by Cheng Sun.
+This project is a fork of [py360convert](https://github.com/sunset1995/py360convert) by Cheng Sun.
 
 -----
 
