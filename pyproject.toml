@@ -24,6 +24,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+[tool.setuptools]
+packages = ["py360convert"]
+
 [project.urls]
 Homepage = "https://github.com/imandrealombardo/py360convert"
 Issues = "https://github.com/imandrealombardo/py360convert/issues"
