@@ -32,4 +32,4 @@ Homepage = "https://github.com/imandrealombardo/py360convert"
 Issues = "https://github.com/imandrealombardo/py360convert/issues"
 
 [project.scripts]
-convert360 = "convert360"
+convert360 = "convert360:main"
